@@ -1,9 +1,5 @@
 #!/bin/bash
 
 echo "ALX"
-<<<<<<< Updated upstream
-echo "ALX School is so cool!"
-=======
 echo "ALX School"
->>>>>>> Stashed changes
 >>>>>>> update_script
