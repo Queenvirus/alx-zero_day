@@ -1,10 +1,4 @@
 #!/bin/bash
-<<<<<<< HEAD
 echo "School"
-=======
-<<<<<<< Updated upstream
 #!/bin/bash
-=======
 echo "The school is open!"
->>>>>>> Stashed changes
->>>>>>> update_script
